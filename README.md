@@ -24,19 +24,22 @@ A simple **ToDo application** with a **React front-end** and **Node.js + Express
 
 ---
 
-## Folder Structure
 
 
-my-todo-app/
-├─ frontend/ # React front-end
-│ ├─ src/
-│ ├─ public/
-│ └─ package.json
-├─ backend/ # Node.js + Express back-end
-│ ├─ routes/
-│ ├─ controllers/
-│ ├─ models/
-│ ├─ app.js
-│ └─ package.json
-└─ README.md
+
+# 📂 Project Structure
+
+- **my-todo-app/**
+  - **frontend/** (React front-end)
+    - src/
+    - public/
+    - package.json
+  - **backend/** (Node.js + Express back-end)
+    - routes/
+    - controllers/
+    - models/
+    - app.js
+    - package.json
+  - README.md
+
 
